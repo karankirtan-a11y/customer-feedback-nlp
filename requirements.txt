@@ -1,0 +1,17 @@
+transformers>=4.44
+torch
+datasets
+accelerate
+evaluate
+scikit-learn
+pandas
+numpy
+nltk
+vaderSentiment
+bertopic
+sentence-transformers
+wordcloud
+matplotlib
+seaborn
+sentencepiece
+streamlit
